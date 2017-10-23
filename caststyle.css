@@ -1,10 +1,10 @@
 .background {
-  background-image:  center no-repeat url(pr_splash.png);
+  background-image:  center no-repeat url(pr_logo_text);
 }
 
 .logo {
   /* max 1280x400, padding-top: 25% */
-  background-image: url(uamp_cast_logo.png);
+  background-image: url(pr_logo_text);
   background-size: auto 30%;
 }
 
@@ -14,10 +14,10 @@
 
 .splash {
   /* max 1280x400, padding-top: 25% */
-  background-image: url(uamp_cast_splash.png);
+  background-image: url(pr_splash.png);
 }
 
 .watermark {
-  background-image: url(uamp_cast_watermark.png);
+  background-image: url(pr_logo_watermark);
   background-size: auto 57px;
 }
