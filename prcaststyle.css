@@ -4,8 +4,8 @@
 
 .logo {
   /* max 1280x400, padding-top: 25% */
-  background-image: url(pr_logo_text.png);
-  background-size: auto 30%;
+  background-image: url(peaceradio_logo_greenbg.png);
+  /*background-size: auto 30%;*/
 }
 
 .progressBar {
