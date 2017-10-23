@@ -1,0 +1,23 @@
+.background {
+  background-image:  center no-repeat url(pr_logo_text.png);
+}
+
+.logo {
+  /* max 1280x400, padding-top: 25% */
+  background-image: url(pr_logo_text.png);
+  background-size: auto 30%;
+}
+
+.progressBar {
+  background-color: #00A881;
+}
+
+.splash {
+  /* max 1280x400, padding-top: 25% */
+  background-image: url(pr_splash.png);
+}
+
+.watermark {
+  background-image: url(pr_logo_watermark.png);
+  background-size: auto 57px;
+}
